@@ -2,8 +2,8 @@
 
 En el presente ejercicio practico replicamos un esquema web aplicando conocimientos de:
 
-  -CSS(display, selectores simples y pseudoselectores)
-  -HTML(div-nav)
+  - CSS(display, selectores simples y pseudoselectores)
+  - HTML(div-nav)
   
 
 ![esquema](assets/imagen/scheme.png)
