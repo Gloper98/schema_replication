@@ -7,7 +7,7 @@ h1{
 
 hr{
   margin-left: 55px;
-  width: 60px;
+  width: 70px;
   margin-bottom: 30px;
 }
 
@@ -53,4 +53,24 @@ a{
 
 .one{
   background-image: url("../assets/imagen/coder4.jpg");
+}
+
+.two{
+  background-image: url("../assets/imagen/coder6.jpg");
+}
+
+.three{
+  background-image: url("../assets/imagen/coder5.jpg");
+}
+
+.four{
+  background-image: url("../assets/imagen/coder1.jpg");
+}
+
+.five{
+  background-image: url("../assets/imagen/coder2.jpg");
+}
+
+.six{
+  background-image: url("../assets/imagen/coder3.jpg");
 }
