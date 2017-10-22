@@ -12,8 +12,7 @@ hr{
 }
 
 nav{
-  outline: 1px solid green;
-  list-style: none;
+  /*outline: 1px solid green;*/
   margin-left: 0;
   margin-right: 350px;
   padding: 0;
@@ -21,8 +20,8 @@ nav{
 }
 
 a{
-  outline: 1px solid blue;
-  text-decoration: none;
+  /*outline: 1px solid blue;*/
+  text-decoration: none;/*Le quitamos a los enlaces sus caracteristicas por default*/
   font-family: monospace;
   font-size: 20px;
   display: block;
@@ -33,24 +32,27 @@ a{
 }
 
 #box {
-  outline: 1px solid red;
+  /*outline: 1px solid red;*/
   width: 300px;
   height: 300px;
-  display: inline-block;
+  display: inline-block; /*Le decimos al div que se comporte como un elemento inline*/
   text-align: right;
   margin-left: 55px;
 }
 
 #box1 {
-  outline: 1px solid red;
+  /*outline: 1px solid red;*/
   width: 300px;
   height: 300px;
-  display: inline-block;
+  display: inline-block; /*Le decimos al div que se comporte como un elemento inline*/
   text-align: right;
   margin-left: 55px;
   margin-top: 40px;
+  margin-bottom: 60px;
 }
 
+
+/*Colocamos las imagenes de fondo a cada uno de los divs*/
 .one{
   background-image: url("../assets/imagen/coder4.jpg");
 }
@@ -73,4 +75,15 @@ a{
 
 .six{
   background-image: url("../assets/imagen/coder3.jpg");
+}
+
+
+/*Le colocamos el efecto hover a los divs*/
+div:hover{
+  /*background: #f9a91a;*/
+  opacity: 0.4;
+}
+
+a:active{
+  color: #f9a91a;
 }
