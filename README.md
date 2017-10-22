@@ -1,4 +1,4 @@
-                                         ![laboratoria](assets/imagen/laboratoria.png)
+![laboratoria](assets/imagen/laboratoria.png)
 
 # Replicando un esquema web
 
