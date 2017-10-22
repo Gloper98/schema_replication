@@ -1,4 +1,4 @@
-##Replicando un esquema web
+# Replicando un esquema web
 
 En el presente ejercicio practico replicamos un esquema web aplicando conocimientos de:
 
@@ -7,6 +7,5 @@ En el presente ejercicio practico replicamos un esquema web aplicando conocimien
   
 
 ![esquema](assets/imagen/scheme.png)
-
 
 *Esquema web a replicar*
