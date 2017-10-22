@@ -1,4 +1,3 @@
-![laboratoria](assets/imagen/lab.png)
 # Replicando un esquema web
 
 En el presente ejercicio practico replicamos un esquema web aplicando conocimientos de:
